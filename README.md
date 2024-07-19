@@ -9,8 +9,11 @@ You can click the Preview link to take a look at your changes.
 ## Skills
 <div>
 Languages: Python, C++, Java, Javascript, TypeScript
+  <br></br>
 Frontend: HTML, CSS, Git, Bootstrap, ReactJs, NextJs, Tailwind CSS, ShadCN 
+   <br></br>
 Backend: NodeJs, ExpressJs, Stripe, Postman, NextJs
+   <br></br>
 Cloud/Databases: MySql, Firebase, Supabase, Appwrite, Clerk
 </div>
 
@@ -23,10 +26,6 @@ Cloud/Databases: MySql, Firebase, Supabase, Appwrite, Clerk
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr-rohit&show_icons=true&theme=dark&layout=compact" width="350" height="230"></img></div> 
 </p>
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kmr-rohit&count_private=true&show_icons=true&theme=dark)
-](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmr-rohit&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
