@@ -22,8 +22,10 @@ Cloud/Databases: MySql, Firebase, Supabase, Appwrite, Clerk
 ## Github Stats
 
 <p float="left">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmr-rohit&theme=blue-green" ></img></div>
   <img src="https://github-readme-stats.vercel.app/api?username=kmr-rohit&count_private=true&show_icons=true&theme=dark" width="500"></img></div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmr-rohit&show_icons=true&theme=dark&layout=compact" width="350" height="230"></img></div> 
+ 
 </p>
 
 
