@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Rohit Kumar
-I am currently working as Application Developer-1 at Oracle, graduated from NIT Warangal.
+I am currently working as Application Developer-2 at Oracle, graduated from NIT Warangal.
 
 
 <!---
@@ -15,6 +15,8 @@ Frontend: HTML, CSS, Git, Bootstrap, ReactJs, NextJs, Tailwind CSS, ShadCN
 Backend: NodeJs, ExpressJs, Stripe, Postman, NextJs
    <br></br>
 Cloud/Databases: MySql, Firebase, Supabase, Appwrite, Clerk
+  <br><br>
+AI : langchain , qlora , huggingface
 </div>
 
 
