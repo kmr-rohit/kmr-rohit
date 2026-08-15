@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="372" viewBox="0 0 850 372" role="img">
+  <title>cat /now  —  2026</title>
+  <defs>
+    <clipPath id="win"><rect width="850" height="372" rx="12" ry="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="850" height="372" fill="#0d1117"/>
+    <rect x="0" y="36" width="850" height="10" fill="#6b8ef5" opacity="0.06">
+  <animate attributeName="y" values="36;354;36" dur="11s" repeatCount="indefinite"/>
+</rect>
+    <rect width="850" height="36" fill="#010409" opacity="0.55"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+    <text x="82" y="22" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">cat /now  —  2026</text>
+    <line x1="0" y1="36" x2="850" y2="36" stroke="#21262d" stroke-width="1"/>
+
+<rect x="20" y="56" width="399" height="142" rx="8" fill="#010409" stroke="#21262d"/>
+<text x="36" y="84" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">[gsoc]</text>
+<text x="36" y="106" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">GSoC 2026</text>
+<text x="36" y="130" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" text-anchor="start" xml:space="preserve">kubeflow/docs-agent</text>
+<text x="36" y="156" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">docs chatbot → agentic RAG + MCP</text>
+<text x="36" y="174" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">docs · issues · code · manifests</text>
+<text x="36" y="192" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">~10k chunks · org member · host the call</text>
+<rect x="431" y="56" width="399" height="142" rx="8" fill="#010409" stroke="#21262d"/>
+<text x="447" y="84" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">[oracle]</text>
+<text x="447" y="106" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">Oracle · Fusion SCM</text>
+<text x="447" y="130" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" text-anchor="start" xml:space="preserve">AI Application Developer</text>
+<text x="447" y="156" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">catalog / order / planner agents</text>
+<text x="447" y="174" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">part matching +~30% coverage</text>
+<text x="447" y="192" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">FastAPI + Kafka outbox · Gen AI hackathon</text>
+<rect x="20" y="210" width="399" height="142" rx="8" fill="#010409" stroke="#21262d"/>
+<text x="36" y="238" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">[macbatch]</text>
+<text x="36" y="260" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">side project</text>
+<text x="36" y="284" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" text-anchor="start" xml:space="preserve">MacBatch</text>
+<text x="36" y="310" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">batch inference on idle Apple Silicon</text>
+<text x="36" y="328" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">252k embeddings / hour</text>
+<text x="36" y="346" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">queue · lease scheduler · worker CLI</text>
+<rect x="431" y="210" width="399" height="142" rx="8" fill="#010409" stroke="#21262d"/>
+<text x="447" y="238" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">[writing]</text>
+<text x="447" y="260" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">kmrrohit.space</text>
+<text x="447" y="284" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" text-anchor="start" xml:space="preserve">notes on serving + agents</text>
+<text x="447" y="310" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">vLLM · SGLang · two clocks</text>
+<text x="447" y="328" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">context engineering · the harness</text>
+<text x="447" y="346" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">agentic RAG for Kubeflow</text>
+  </g>
+  <rect x="0.5" y="0.5" width="849" height="371" rx="12" ry="12" fill="none" stroke="#21262d"/>
+</svg>
