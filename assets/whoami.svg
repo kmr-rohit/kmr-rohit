@@ -23,7 +23,7 @@
 <text x="28" y="151" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" xml:space="preserve"> / _, _/ /_/ / __  // /  / /    </text>
 <text x="28" y="168" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" xml:space="preserve">/_/ |_|\____/_/ /_/___/ /_/     </text>
 <text x="28" y="199" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" xml:space="preserve">kumar  ·  AI engineer  ·  Bengaluru</text>
-<text x="28" y="221" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Oracle Fusion SCM  ·  GSoC 2026  ·  Kubeflow Docs Agent</text>
+<text x="28" y="221" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Oracle OCI  ·  GSoC 2026  ·  Kubeflow Docs Agent</text>
 <rect x="28" y="233" width="8" height="14" fill="#6b8ef5" opacity="1">
   <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.45;1" dur="1.15s" repeatCount="indefinite"/>
 </rect>

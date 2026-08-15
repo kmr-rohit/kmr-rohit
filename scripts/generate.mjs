@@ -176,7 +176,7 @@ const NOW = [
   },
   {
     tag: "oracle",
-    kicker: "Oracle · Fusion SCM",
+    kicker: "Oracle · OCI",
     title: "AI Application Developer",
     lines: [
       "catalog / order / planner agents",
@@ -435,7 +435,7 @@ function buildWhoami() {
   parts.push(text(x, y, "kumar  ·  AI engineer  ·  Bengaluru", { fill: THEME.fg, size: 14 }));
   y += 22;
   parts.push(
-    text(x, y, "Oracle Fusion SCM  ·  GSoC 2026  ·  Kubeflow Docs Agent", {
+    text(x, y, "Oracle OCI  ·  GSoC 2026  ·  Kubeflow Docs Agent", {
       fill: THEME.muted,
       size: 13,
     }),
@@ -458,7 +458,7 @@ function buildNeofetch(ascii) {
     ["kmr-rohit", "@github"],
     ["─────────", ""],
     ["role", "AI engineer"],
-    ["org", "Oracle · Fusion SCM"],
+    ["org", "Oracle · OCI"],
     ["os", "GSoC 2026 · kubeflow/docs-agent"],
     ["host", "Bengaluru, India"],
     ["uptime", "Jun 2024 – present"],
