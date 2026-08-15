@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="348" viewBox="0 0 850 348" role="img">
+  <title>neofetch  —  ~/.config</title>
+  <defs>
+    <clipPath id="win"><rect width="850" height="348" rx="12" ry="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="850" height="348" fill="#0d1117"/>
+    <rect x="0" y="36" width="850" height="10" fill="#6b8ef5" opacity="0.06">
+  <animate attributeName="y" values="36;330;36" dur="11s" repeatCount="indefinite"/>
+</rect>
+    <rect width="850" height="36" fill="#010409" opacity="0.55"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+    <text x="82" y="22" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">neofetch  —  ~/.config</text>
+    <line x1="0" y1="36" x2="850" y2="36" stroke="#21262d" stroke-width="1"/>
+
+<text x="24" y="64" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">          +:*.            </text>
+<text x="24" y="80" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">        .:**#**:          </text>
+<text x="24" y="96" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">        +#####*+          </text>
+<text x="24" y="112" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">       *#@##@#**:         </text>
+<text x="24" y="128" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">      #@@*+###@@*: *+     </text>
+<text x="24" y="144" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">     +@@@***#@@@@#*#@#+*  </text>
+<text x="24" y="160" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">      *@@@###@@@@###**#*#*</text>
+<text x="24" y="176" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">    :++*@@@##@@@@@*++:  *#</text>
+<text x="24" y="192" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve"> :+*#*##*####@@@@##****+: </text>
+<text x="24" y="208" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">+###############@########+</text>
+<text x="24" y="224" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">###@@###@@@@#####@########</text>
+<text x="24" y="240" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">##@@@@@@######@@##@@@@####</text>
+<text x="24" y="256" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">####@@@#######*#@@@@@@###*</text>
+<text x="24" y="272" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">###*###########**#@@@@####</text>
+<text x="268" y="64" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" text-anchor="start" xml:space="preserve">kmr-rohit</text>
+<text x="346" y="64" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">@github</text>
+<text x="268" y="82" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">────────────────────────</text>
+<text x="268" y="100" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">role      </text>
+<text x="360" y="100" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">AI engineer</text>
+<text x="268" y="118" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">org       </text>
+<text x="360" y="118" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Oracle · Fusion SCM</text>
+<text x="268" y="136" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">os        </text>
+<text x="360" y="136" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">GSoC 2026 · kubeflow/docs-agent</text>
+<text x="268" y="154" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">host      </text>
+<text x="360" y="154" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Bengaluru, India</text>
+<text x="268" y="172" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">uptime    </text>
+<text x="360" y="172" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Jun 2024 – present</text>
+<text x="268" y="190" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">kernel    </text>
+<text x="360" y="190" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">agents · RAG · serving</text>
+<text x="268" y="208" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">shell     </text>
+<text x="360" y="208" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">FastAPI · Kafka · MCP · TEI</text>
+<text x="268" y="226" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">editor    </text>
+<text x="360" y="226" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">kmrrohit.space</text>
+<text x="268" y="244" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">status    </text>
+<text x="360" y="244" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Kubeflow org member</text>
+<text x="268" y="262" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">edu       </text>
+<text x="360" y="262" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">B.Tech Mechanical, NIT Warangal '24</text>
+<text x="268" y="280" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">talks     </text>
+<text x="360" y="280" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">KubeCon India 2026 · KF showcase</text>
+<rect x="268" y="320" width="14" height="14" rx="2" fill="#484f58"/>
+<rect x="286" y="320" width="14" height="14" rx="2" fill="#8b949e"/>
+<rect x="304" y="320" width="14" height="14" rx="2" fill="#c9d1d9"/>
+<rect x="322" y="320" width="14" height="14" rx="2" fill="#6b8ef5"/>
+<rect x="340" y="320" width="14" height="14" rx="2" fill="#3fb950"/>
+<rect x="358" y="320" width="14" height="14" rx="2" fill="#d29922"/>
+<rect x="376" y="320" width="14" height="14" rx="2" fill="#ff7b72"/>
+<rect x="394" y="320" width="14" height="14" rx="2" fill="#ff5f56"/>
+  </g>
+  <rect x="0.5" y="0.5" width="849" height="347" rx="12" ry="12" fill="none" stroke="#21262d"/>
+</svg>

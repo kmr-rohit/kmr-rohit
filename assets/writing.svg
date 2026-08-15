@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="268" viewBox="0 0 850 268" role="img">
+  <title>ls ~/writing  —  kmrrohit.space</title>
+  <defs>
+    <clipPath id="win"><rect width="850" height="268" rx="12" ry="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="850" height="268" fill="#0d1117"/>
+    <rect x="0" y="36" width="850" height="10" fill="#6b8ef5" opacity="0.06">
+  <animate attributeName="y" values="36;250;36" dur="11s" repeatCount="indefinite"/>
+</rect>
+    <rect width="850" height="36" fill="#010409" opacity="0.55"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+    <text x="82" y="22" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">ls ~/writing  —  kmrrohit.space</text>
+    <line x1="0" y1="36" x2="850" y2="36" stroke="#21262d" stroke-width="1"/>
+
+<text x="28" y="68" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">kmr-rohit@github:~$ ls -1 ~/writing</text>
+<text x="28" y="96" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">2026</text>
+<text x="80" y="96" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">kubeflow </text>
+<text x="168" y="96" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Teaching a docs agent to read the repo</text>
+<text x="28" y="118" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">2026</text>
+<text x="80" y="118" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">sglang   </text>
+<text x="168" y="118" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">SGLang, or a runtime that remembers</text>
+<text x="28" y="140" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">2026</text>
+<text x="80" y="140" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">vllm     </text>
+<text x="168" y="140" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">vLLM from the inside</text>
+<text x="28" y="162" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">2026</text>
+<text x="80" y="162" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">agents   </text>
+<text x="168" y="162" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">Context engineering, after the window</text>
+<text x="28" y="184" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">2026</text>
+<text x="80" y="184" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">agents   </text>
+<text x="168" y="184" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">The harness is the product</text>
+<text x="28" y="206" fill="#484f58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">2026</text>
+<text x="80" y="206" fill="#6b8ef5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">inference</text>
+<text x="168" y="206" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" xml:space="preserve">The two clocks</text>
+<text x="28" y="236" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" xml:space="preserve">→  https://kmrrohit.space/writing</text>
+  </g>
+  <rect x="0.5" y="0.5" width="849" height="267" rx="12" ry="12" fill="none" stroke="#21262d"/>
+</svg>
