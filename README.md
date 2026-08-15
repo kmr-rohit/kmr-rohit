@@ -14,7 +14,7 @@
   <img src="./assets/whoami.svg" width="850" alt="whoami — Rohit Kumar, AI engineer in Bengaluru" />
 </p>
 
-I spend most of my time on the layer between a model and something someone will actually trust — tool-calling loops, retrieval, and the harness around them. By day that's agentic and RAG work inside Oracle Fusion SCM. Outside of that I work on [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent) (GSoC 2026).
+I spend most of my time on the layer between a model and something someone will actually trust — tool-calling loops, retrieval, and the harness around them. By day that's agentic and RAG work inside Oracle OCI. Outside of that I work on [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent) (GSoC 2026).
 
 <p align="center">
   <a href="https://kmrrohit.space">kmrrohit.space</a>
@@ -41,7 +41,7 @@ I spend most of my time on the layer between a model and something someone will 
 | where | what |
 | :--- | :--- |
 | [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent) | GSoC 2026 — agentic RAG + MCP over docs, issues, code, manifests |
-| Oracle Fusion SCM | catalog / order / planner agents · Alert Notification Microservice |
+| Oracle OCI | catalog / order / planner agents · Alert Notification Microservice |
 | [MacBatch](https://github.com/kmr-rohit/macbatch) · [app](https://macbatch.vercel.app/) | batch inference on idle Apple Silicon, 252k embeds/hour |
 | [writing](https://kmrrohit.space/writing) · [projects](https://kmrrohit.space/projects) · [opensource](https://kmrrohit.space/opensource) | vLLM, SGLang, context, harness |
 
